@@ -19,7 +19,9 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text('Hello World Project'),backgroundColor: Colors.blueAccent,),
-      body: Text('This is body part'),
+body: Center(child: Text('This is body part')),
+
+
     );
   }
 }
