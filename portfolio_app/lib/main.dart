@@ -63,7 +63,7 @@ class Home extends StatelessWidget {
                       Row(
                         children: [
                           Icon(
-                            Icons.propane_tank_rounded,
+                            Icons.business_center,
                             size: 40,
                             color: Colors.white,
                           ),
