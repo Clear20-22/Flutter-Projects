@@ -55,10 +55,11 @@ flutter:
   uses-material-design: true
 
   assets:
-    - image/Profile.jpg
-    - image/pp.png
-    - image/portfolio.jpg
-    - image/portflo.jpg
+    - assets/image/Profile.jpg
+    - assets/image/pp.png
+    - assets/image/portfolio.jpg
+    - assets/image/portflo.jpg
+
 
   
 
